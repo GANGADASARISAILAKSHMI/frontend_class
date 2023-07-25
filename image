@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>image</title>
+</head>
+<body bgcolor="lightblue">
+<h1 align="center" >Images example</h1>
+<center>
+<img src="C:\Users\Dell\Downloads\radha.jpg" alt="Krishna" border="6" vspace="100" hspace="100" width="350" height="360">
+</center>
+</body>
+</html>
