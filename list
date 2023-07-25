@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>Colleges in kurnool</title>
+<body bgcolor="green" link="green" vlink="yellow" alink="red">
+<a href="https://www.rgmcet.edu.in/" name="sai">Click here</a>for the link</br>
+<center>
+<h1>
+<font color="red" size="30">Colleges in Kurnool</font>
+</h1>
+</center>
+<ol>
+<li>kurnool</li>
+<ul>
+<li>GPREC</li>
+<li>Pullaiah</li>
+</ul>
+<li>Nandyal</li>
+<ul>
+<li>RGMCET</li>
+<li>SVR</li>
+</ul>
+</ol>
+</body>
+</html>
