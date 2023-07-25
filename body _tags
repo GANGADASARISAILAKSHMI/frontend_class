@@ -1,0 +1,21 @@
+
+<html>
+<head>
+<title>Practise</title>
+<body bgcolor="pink">
+<center>
+<h1>Practise of tags</h1>
+</center>
+Hi sai 
+<p>hi hello anjali</p>
+<u>ghdsgcds</u>
+<i>egsudsdkhjsbcjds</i>dgcbbsl<u>ghdsgcds</u><br>
+cgxdjhvjdcb<big>fbjchxdb</big><br>
+<font color="red" size="10">bdjhdbujsjgd</font>
+<marquee align="middle" behaviour="alternate" direction="left" bgcolour="blue" loop="-1" scrolldelay="10" bgcolor="green" height="50">gxgsvaxhvshchcxs</marquee>
+<pre>
+<h1> SNO    name     course</h1>
+1      sai      btech
+</pre>
+</body>
+
