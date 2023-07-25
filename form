@@ -1,0 +1,73 @@
+<html>
+<head>
+<title>Registration form</title>
+<body bgcolor="lightgreen">
+<form name="form1">
+<table border="0" cellpading="3" cellspacing="8">
+<center>
+<h1>
+<font color="yellow" size="50">Registration Form</font>
+</h1>
+</center>
+<tr>
+<th>Enter name:</th>
+<td><input type="name" placeholder="Enter your name:"></td>
+</tr>
+<tr>
+<th>Enter password:</th>
+<td><input type="password" placeholder="Enter your password:"></td>
+</tr>
+<tr>
+<th>Enter email:</th>
+<td><input type="email" placeholder="Enter your valid mail:"></td>
+</tr>
+<tr>
+<th>Enter Date Of Birth:</th>
+<td><input type="date" placeholder="Enter your born day:"></td>
+</tr>
+<tr>
+<th>Enter mobile number:</th>
+<td><input type="number" placeholder="Enter your phone number:"></td>
+</tr>
+<tr>
+<th>Select gender:</th>
+<td><input type="radio" name="r" value="Female">female</td>
+<td><input type="radio" name="r" value="male">male</td>
+</tr>
+<tr>
+<th>Select the languages:</th>
+<td><input type="checkbox" value="Telugu">Telugu</td>
+<td><input type="checkbox" value="Engish">English</td>
+<td><input type="checkbox" value="Hindi">Hindi</td>
+</tr>
+
+<tr>
+<th>Add about yourself</th>
+<td><textarea rows="5" cols="10"></textarea></td>
+</tr>
+<tr>
+<td><input type="submit" value="Submit"></td>
+<td><input type="reset" value="Reset"></td>
+</tr>
+</table>
+</form>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
